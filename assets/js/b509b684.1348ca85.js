@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkherlon_doc=self.webpackChunkherlon_doc||[]).push([[624],{8626:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/herlon-docs/blog/tags/hola","allTagsPath":"/herlon-docs/blog/tags","count":1}')}}]);

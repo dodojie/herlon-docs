@@ -49,3 +49,10 @@ jobs:
           # account_type: org
           # src_account_type: org
           # dst_account_type: org
+      - name: Build Gitee Pages
+        uses: yanglbme/gitee-pages-action@main
+        with:
+          gitee-username: herlon
+          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          gitee-repo: herlon/herlon-docs
+          branch: gh-pages

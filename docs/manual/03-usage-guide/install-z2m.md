@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 ```js
 function helloWorld() {
-  console.log('Hello, world哈哈哈哈哈哈!');
+  console.log('Hello, world我来测试一下下下下下哈哈!');
 }
 ```
 

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkherlon_doc=self.webpackChunkherlon_doc||[]).push([[441],{7161:e=>{e.exports=JSON.parse('{"permalink":"/herlon-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

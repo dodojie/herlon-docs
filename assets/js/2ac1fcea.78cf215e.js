@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkherlon_doc=self.webpackChunkherlon_doc||[]).push([[1876],{8668:o=>{o.exports=JSON.parse('{"permalink":"/herlon-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

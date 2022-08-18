@@ -63,7 +63,7 @@ import TabItem from '@theme/TabItem';
 :::info
 
 1. 如果您使用zigbee2mqtt或者ZHA组件，那么您就必须选择NSA模式。
-2. 网关出厂固件默认为NSA模式。如果您需要SA模式，请根据[此文章](./sa)，进行设置。
+2. 网关出厂固件默认为NSA模式。如果您需要SA模式，请根据[此文章](./sa/enable)，进行设置。
 
 :::
 
